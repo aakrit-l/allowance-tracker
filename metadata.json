@@ -1,0 +1,6 @@
+{
+  "name": "Allowance Planner",
+  "description": "Smart monthly allowance planner and expense tracker with live budget analytics, category charts, and an AI financial advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
